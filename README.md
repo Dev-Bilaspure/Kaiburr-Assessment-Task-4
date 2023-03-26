@@ -9,24 +9,24 @@ This project combines a Java Spring Boot REST API created in `task #1` with a Re
 The app allow the user to create, show, and delete documents of Server collection. Below are the screenshots of these features in action.
 
 ## Screenshots
-#### 1. Show All Servers Documents
-<img src="screenshots/viewServers.png" height="300">
+#### 1. Show All Servers Documents  
+<img src="screenshots/viewServers.png" height="300"><br>
 
 #### 2. Delete a Server Document
-Click the Delete button
-<img src="screenshots/clickDelete.png" height="250">
-Confirm to delete
-<img src="screenshots/tryingToDelete.png" height="300">
-Document deleted
-<img src="screenshots/serverDeleted.png" height="300">
+Click the Delete button  
+<img src="screenshots/clickDelete.png" height="250"><br>
+Confirm to delete  
+<img src="screenshots/tryingToDelete.png" height="300"><br>
+Document deleted  
+<img src="screenshots/serverDeleted.png" height="300"><br>
 
 #### 3. Add a new Server Document
-Click on Add Server button
-<img src="screenshots/clickAddBtn.png" height="250">
-Fill the name, language and framework field in Add Server DialogBox form
-<img src="screenshots/addServerDialog.png" height="300">
-Document added
-<img src="screenshots/serverAdded.png" height="300">
+Click on Add Server button  
+<img src="screenshots/clickAddBtn.png" height="250"><br>
+Fill the name, language and framework field in Add Server DialogBox form  
+<img src="screenshots/addServerDialog.png" height="300"><br>
+Document added  
+<img src="screenshots/serverAdded.png" height="300"><br>
 
 
 ## Setup and run:
