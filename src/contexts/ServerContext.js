@@ -7,7 +7,7 @@ const ServerContextProvider = (props) => {
   const [servers, setServers] = useState([]);
 
   useEffect(() => {
-    fetchAllServers()("devdevdev");
+    fetchAllServers();
   }, []);
 
   async function fetchAllServers() {
