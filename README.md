@@ -33,6 +33,7 @@ The app allow the user to create, show, and delete documents of Server collectio
 
 
 ## Dependencies used
--Axios
--Material UI
--React
+- Axios
+- Material UI
+- React  
+Note: These are the major dependencies used in the project. For a complete list of dependencies and their versions, please refer to the `package.json` file.
