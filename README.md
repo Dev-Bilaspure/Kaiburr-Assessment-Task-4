@@ -14,13 +14,13 @@ The app allow the user to create, show, and delete documents of Server collectio
 
 #### 2. Delete a Server Document
 <img src="screenshots/clickDelete.png" height="250">
-<img src="screenshots/tryingToDelete.png" height="350">
-<img src="screenshots/serverDeleted.png" height="350">
+<img src="screenshots/tryingToDelete.png" height="300">
+<img src="screenshots/serverDeleted.png" height="300">
 
 #### 3. Add a new Server Document
-![clickAddBtn](screenshots/clickAddBtn.png)
-![addServerDialog](screenshots/addServerDialog.png)
-![serverAdded](screenshots/serverAdded.png)
+<img src="screenshots/clickAddBtn.png" height="250">
+<img src="screenshots/addServerDialog.png" height="300">
+<img src="screenshots/serverAdded.png" height="300">
 
 
 ## Setup and run:
