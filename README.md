@@ -14,6 +14,8 @@ The app allow the user to create, show, and delete documents of Server collectio
 
 #### 2. Delete a Server Document
 ![deleteAServerDocument](screenshots/clickDelete.png)
+<img src="screenshots/clickDelete.png" height="50">
+
 ![deleteAServerDocument](screenshots/tryingToDelete.png)
 ![deleteAServerDocument](screenshots/serverDeleted.png)
 
