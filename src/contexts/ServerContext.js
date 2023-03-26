@@ -14,11 +14,10 @@ const ServerContextProvider = (props) => {
     await axios
       .get("http://localhost:8080/api/servers")
       .then((res) => {
-        res.data, "dec";
         setServers(res.data);
       })
       .catch((err) => {
-        err;
+        console.log(err);
       });
   }
 
@@ -27,7 +26,6 @@ const ServerContextProvider = (props) => {
   }
 
   function removeServer(serverId) {
-    "mdmdmdmdmdmdmdmdmd", serverId;
     const newServerArray = servers.filter(
       (server) => server.serverId !== serverId
     );

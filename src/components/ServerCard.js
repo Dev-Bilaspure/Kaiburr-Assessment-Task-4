@@ -9,19 +9,17 @@ const ServerCard = ({ name, language, framework, serverId }) => {
   const handleDeleteServer = async () => {
     const ans = window.confirm("Are you sure you want to delete this server?");
     if (!ans) return;
-    serverId;
     try {
       await axios
         .delete(`http://localhost:8080/api/servers/${serverId}`)
         .then((res) => {
-          res.data;
           removeServer(serverId);
         })
         .catch((err) => {
-          err;
+          console.log(err);
         });
     } catch (error) {
-      error;
+      console.log(error);
     }
   };
   return (

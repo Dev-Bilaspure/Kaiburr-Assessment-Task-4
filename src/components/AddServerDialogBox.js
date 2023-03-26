@@ -32,11 +32,11 @@ const AddServerDialog = ({ handleDialogBoxClose, openDialogBox }) => {
         })
         .catch((err) => {
           setIsFetching(false);
-          err;
+          console.log(err);
         });
     } catch (error) {
       setIsFetching(false);
-      error;
+      console.log(error);
     }
   };
   return (
